@@ -1,0 +1,120 @@
+@import url(https://fonts.googleapis.com/css2?family=Inter&display=swap);
+@import url(https://fonts.googleapis.com/css2?family=Inter&display=swap);
+@import url(https://fonts.googleapis.com/css2?family=Inter&display=swap);
+.avatar{
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    /* background: url('https://i.pravatar.cc/36?img=47'); */
+}
+.button{
+    display: flex;
+    font-family: Inter;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 8px 16px;
+    gap: 4px;
+    border: 0px;
+    cursor: pointer;
+    font-size: 14px;
+    line-height: 20px;
+    font-weight: 500;
+}
+.primary{
+    background: #224DFF;
+    border-radius: 6px;
+    color: #FFFFFF;
+}
+.secondary{
+    background: #FFFFFF ;
+    color: #696A6E;
+    border: 1px solid #E5E7ED;
+    border-radius: 6px;
+}
+.primary-disabled{
+    color: #FFFFFF;
+    border-radius: 6px;
+    background: #95AAFF;
+}
+.chip{
+    display: inline;
+    font-family: Inter;
+    text-transform: uppercase;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 18px;
+    font-style: normal;
+}
+.scheduled{
+    color: #3E5FE2;
+    background-color: #F2F4FC;
+}
+.clear{
+    color: #17A076;
+    background-color: #F2FCFB;
+}
+.consider{
+    color: #A08817;
+    background-color: #FAF8EB;
+}
+.input{
+    box-sizing: border-box;
+    position: absolute;
+    height: 36px;
+    left: 0%;
+    right: 0%;
+    top: 28px;
+}
+.typography{
+    font-family: Inter;
+    color: #2C2C2E;
+}
+.heading{
+    font-size: 24px;
+    font-style: normal;
+    line-height: 30px;
+}
+.subtitle-1{
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 500;
+}
+.body-2{
+    font-weight: 400;
+    font-size: 14px;
+    font-style: normal;
+    line-height: 20px;
+}
+.caption-1{
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 18px;
+    font-style: normal;
+    text-transform: uppercase;
+}
+.caption-2{
+    font-weight: 400;
+    font-style: normal;
+    font-size: 12px;
+    line-height: 18px;
+}
+.caption-3{
+    font-size: 12px;
+    line-height: 18px;
+    font-weight: 500;
+    text-transform: capitalize;
+}
+.body-1{
+    font-size: 14px;
+    line-height: 20px;
+    font-weight: 500;
+}
+
+
+/*# sourceMappingURL=main.e5903e6d.css.map*/
